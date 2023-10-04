@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Assignment1</string>
+    <string name="emi_calculator_title">EMI Calculator</string>
+    <string name="go_to_calculate_button_text">Go to Calculate</string>
+    <string name="mortgage_principal_amount_edittext_title">Mortgage principal amount</string>
+    <string name="calculate_view_activitiy_big_title">Calculate your EMI</string>
+    <string name="loan_tenure_months_textinputlayout_hint">Loan Tenure (Months)</string>
+    <string name="calculate_button_text">Calculate</string>
+
+    <string name="emi_result">EMI: %s</string>
+
 </resources>
